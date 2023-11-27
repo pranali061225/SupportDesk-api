@@ -1,0 +1,101 @@
+2022-12-31T10:30:24.709Z | [31merror[39m: /favicon.ico not found 
+2022-12-31T10:30:39.044Z | [31merror[39m: /users not found 
+2022-12-31T10:30:49.502Z | [31merror[39m: /users/me not found 
+2022-12-31T10:32:32.972Z | [31merror[39m: /users not found 
+2022-12-31T10:32:57.910Z | [31merror[39m: /users not found 
+2022-12-31T10:34:04.169Z | [31merror[39m: /users not found 
+2022-12-31T10:34:54.724Z | [31merror[39m: /api/users not found 
+2022-12-31T10:35:05.948Z | [31merror[39m: Cannot read property 'id' of undefined 
+2023-01-02T06:52:21.589Z | [31merror[39m: Unexpected token e in JSON at position 0 
+2023-01-02T06:52:59.219Z | [31merror[39m: Unexpected token c in JSON at position 7 
+2023-01-02T06:53:26.106Z | [31merror[39m: /api/request not found 
+2023-01-02T06:54:38.498Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T06:55:32.378Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T07:09:12.358Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T07:09:48.420Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T07:24:26.528Z | [31merror[39m: Unexpected token u in JSON at position 2 
+2023-01-02T07:24:47.686Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T07:25:57.981Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T07:26:41.892Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T09:12:28.410Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T09:13:07.481Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T09:13:35.098Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T09:17:20.363Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T09:30:16.589Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T09:44:24.738Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T09:47:11.294Z | [31merror[39m: Cannot read property 'error' of undefined 
+2023-01-02T09:52:44.794Z | [31merror[39m: Service "requestModel" was not found, looks like it was not registered in the container. Register it by calling Container.set("requestModel", ...) before using service. 
+2023-01-02T09:53:43.246Z | [31merror[39m: Service "requestModel" was not found, looks like it was not registered in the container. Register it by calling Container.set("requestModel", ...) before using service. 
+2023-01-02T09:54:30.940Z | [31merror[39m: Service "requestModel" was not found, looks like it was not registered in the container. Register it by calling Container.set("requestModel", ...) before using service. 
+2023-01-02T09:56:49.799Z | [31merror[39m: this.logger.error is not a function 
+2023-01-02T10:00:06.016Z | [31merror[39m: this.logger.error is not a function 
+2023-01-02T12:05:49.652Z | [31merror[39m: Service "requestModel" was not found, looks like it was not registered in the container. Register it by calling Container.set("requestModel", ...) before using service. 
+2023-01-02T12:22:32.286Z | [31merror[39m: Service "requestModel" was not found, looks like it was not registered in the container. Register it by calling Container.set("requestModel", ...) before using service. 
+2023-01-02T12:32:25.069Z | [31merror[39m: Service "requestModel" was not found, looks like it was not registered in the container. Register it by calling Container.set("requestModel", ...) before using service. 
+2023-01-02T12:34:46.691Z | [31merror[39m: Service "requestModel" was not found, looks like it was not registered in the container. Register it by calling Container.set("requestModel", ...) before using service. 
+2023-01-02T12:39:01.526Z | [31merror[39m: Service "requestModel" was not found, looks like it was not registered in the container. Register it by calling Container.set("requestModel", ...) before using service. 
+2023-01-02T12:39:58.294Z | [31merror[39m: Service "requestModel" was not found, looks like it was not registered in the container. Register it by calling Container.set("requestModel", ...) before using service. 
+2023-01-02T14:01:32.417Z | [31merror[39m: /request not found 
+2023-01-02T14:02:23.296Z | [31merror[39m: /request not found 
+2023-01-03T07:31:21.975Z | [31merror[39m: Cannot read property 'plugin' of undefined 
+2023-01-03T07:33:02.450Z | [31merror[39m: Cannot read property 'plugin' of undefined 
+2023-01-03T07:33:43.388Z | [31merror[39m: Cannot read property 'plugin' of undefined 
+2023-01-03T07:35:02.574Z | [31merror[39m: Cannot read property 'plugin' of undefined 
+2023-01-03T07:39:00.275Z | [31merror[39m: An instance of UserSignupDto has failed the validation:
+ - property email has failed the following constraints: isEmail 
+2023-01-03T07:44:47.318Z | [31merror[39m: RegisterUser: Error jsonwebtoken 
+2023-01-03T07:45:48.043Z | [31merror[39m: A user with username Raj already exists 
+2023-01-03T07:45:56.499Z | [31merror[39m: RegisterUser: Error jsonwebtoken 
+2023-08-09T12:56:03.514Z | [31merror[39m: /users not found 
+2023-08-09T13:01:27.960Z | [31merror[39m: /user not found 
+2023-08-09T13:04:38.750Z | [31merror[39m: /user not found 
+2023-08-09T13:04:38.970Z | [31merror[39m: /favicon.ico not found 
+2023-08-09T13:05:58.119Z | [31merror[39m: /user not found 
+2023-08-09T13:07:06.303Z | [31merror[39m: /user not found 
+2023-08-09T13:08:58.230Z | [31merror[39m: /user not found 
+2023-08-09T13:09:58.682Z | [31merror[39m: Cannot read properties of undefined (reading 'id') 
+2023-08-09T13:10:46.561Z | [31merror[39m: Cannot read properties of undefined (reading 'id') 
+2023-08-09T13:12:17.937Z | [31merror[39m: Cannot read properties of undefined (reading 'id') 
+2023-08-09T13:13:36.016Z | [31merror[39m: Cannot read properties of undefined (reading 'id') 
+2023-08-09T13:14:15.036Z | [31merror[39m: Cannot read properties of undefined (reading 'id') 
+2023-08-09T13:26:39.522Z | [31merror[39m: Cannot read properties of undefined (reading 'id') 
+2023-08-09T13:29:08.731Z | [31merror[39m: Cannot read properties of undefined (reading 'id') 
+2023-08-09T13:30:33.304Z | [31merror[39m: No token, authorization denied 
+2023-08-09T13:32:28.592Z | [31merror[39m: No token, authorization denied 
+2023-08-09T13:33:27.904Z | [31merror[39m: No token, authorization denied 
+2023-08-09T15:27:38.578Z | [31merror[39m: No token, authorization denied 
+2023-08-09T15:28:50.577Z | [31merror[39m: No token, authorization denied 
+2023-08-09T15:31:56.283Z | [31merror[39m: Token not valid 
+2023-08-09T15:32:50.935Z | [31merror[39m: Cannot read properties of undefined (reading 'user') 
+2023-08-10T13:20:25.835Z | [31merror[39m: Cannot read properties of undefined (reading 'id') 
+2023-08-10T13:28:21.218Z | [31merror[39m: Token not valid 
+2023-08-10T13:30:11.053Z | [31merror[39m: Token not valid 
+2023-08-10T13:32:04.316Z | [31merror[39m: Token not valid 
+2023-08-10T13:33:33.714Z | [31merror[39m: /api/user not found 
+2023-08-10T13:35:14.685Z | [31merror[39m: /api/user not found 
+2023-08-10T13:36:16.312Z | [31merror[39m: /api/user not found 
+2023-08-10T13:38:00.874Z | [31merror[39m: /api/user not found 
+2023-08-10T13:39:23.437Z | [31merror[39m: /api/user not found 
+2023-08-10T13:40:53.285Z | [31merror[39m: /api/user not found 
+2023-08-11T07:08:12.043Z | [31merror[39m: /api/user not found 
+2023-08-11T07:09:39.723Z | [31merror[39m: /api/user not found 
+2023-08-11T07:10:33.370Z | [31merror[39m: /api/user not found 
+2023-08-11T07:14:01.838Z | [31merror[39m: /api/user not found 
+2023-08-11T07:16:18.589Z | [31merror[39m: User 1 doesn't exist 
+2023-08-11T10:08:56.063Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T10:10:24.142Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T10:12:14.531Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T10:14:19.900Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T10:17:13.991Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T10:18:13.302Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T10:19:02.997Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T13:13:53.763Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T13:16:55.314Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T13:19:38.463Z | [31merror[39m: Cannot read properties of undefined (reading 'id') 
+2023-08-11T13:19:39.009Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T13:20:51.384Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T13:22:42.037Z | [31merror[39m: /api/request/1 not found 
+2023-08-11T13:22:42.506Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T13:23:32.407Z | [31merror[39m: A user with username Raj already exists 
+2023-08-11T13:25:07.628Z | [31merror[39m: A user with username Raj already exists 
+2023-08-21T13:41:12.196Z | [31merror[39m: A user with username Raj already exists 
